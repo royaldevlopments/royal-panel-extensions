@@ -1,6 +1,6 @@
 # Royal Panel Extensions
 
-A collection of **74 Blueprint extensions** for [Royal Panel](https://papa.codenestsolution.in), all patched with `Pterodactyl\` → `RoyalPanel\` namespace fixes for seamless compatibility.
+A collection of **74 Blueprint extensions** for [Royal Panel](https://papa.codenestsolution.in).
 
 ## Structure
 
@@ -98,13 +98,6 @@ themes/      — 10 fully compatible visual themes
 cd /var/www/pterodactyl
 blueprint -install extensions/<name>-royal
 ```
-
-## Changes Applied
-
-All extensions have been patched:
-- `Pterodactyl\` → `RoyalPanel\` (PHP namespaces)
-- `Pterodactyl` → `Royal Panel` (user-facing strings)
-- `Pterodactyl\\` → `RoyalPanel\\` (shell scripts)
 
 ## License
 
