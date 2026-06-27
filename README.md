@@ -1,6 +1,6 @@
 # Royal Panel Extensions
 
-A collection of **74 Blueprint extensions** for [Royal Panel](https://papa.codenestsolution.in).
+A collection of **74 Blueprint extensions** for [Royal Panel](https://github.com/royaldevlopments).
 
 ## Structure
 
