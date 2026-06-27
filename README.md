@@ -99,6 +99,12 @@ cd /var/www/pterodactyl
 blueprint -install extensions/<name>-royal
 ```
 
+## About Me
+
+**Royal Devlopments** — Building and maintaining Royal Panel ecosystem.  
+Discord: https://discord.gg/royaldevlopments  
+GitHub: [@royaldevlopments](https://github.com/royaldevlopments)
+
 ## License
 
 MIT
